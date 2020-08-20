@@ -1,0 +1,42 @@
+
+body{
+  background-color: Powderblue;
+  text-align: center;
+  padding-top: 100px;
+  position: relative;
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+}
+
+p{
+font-family: 'Merriweather', serif;
+font-size: 20px;
+}
+.skill{
+  height: 200px;
+}
+.profile{
+  margin: 20px;
+}
+.upper-cloud{
+position: absolute;
+right:300px;
+top:50px;
+}
+.insta{
+  height: 20px;
+}
+.linkd{
+  height: 20px;
+}
+.fb{
+  height: 20px;
+}
+
+.bottom-cloud{
+position: absolute;
+left:300px;
+top: 300px;
+}
